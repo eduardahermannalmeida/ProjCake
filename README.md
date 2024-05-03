@@ -18,7 +18,7 @@ Software:
 
 https://www.iconfinder.com
 
-Header/Footer:
+Header/Footer (README.md):
 
 https://leviarista.github.io/github-profile-header-generator/
 
